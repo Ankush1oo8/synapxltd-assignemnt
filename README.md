@@ -46,7 +46,7 @@ It extracts structured claim information from ACORD-style PDF or TXT documents a
   ```bash
   pip3 install -r requirements.txt
 ````
-```
+
 ## Usage
 
 Run the agent with a PDF or TXT FNOL document:
