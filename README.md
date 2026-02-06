@@ -28,18 +28,16 @@ It extracts structured claim information from ACORD-style PDF or TXT documents a
 ## Project Structure
 
 ```
-
 .
 ├── claims_agent.py
 ├── filled-fnol.txt
 ├── filled.pdf
 ├── ACORD-Automobile-Loss-Notice-12.05.16.pdf
 ├── Assessment_Brief_Synapx.pdf
-├── **pycache**/
+├── __pycache__/
 ├── requirements.txt
 └── README.md
-
-````
+```
 
 ## Requirements
 
@@ -113,8 +111,3 @@ The program prints structured JSON to stdout:
 ## Author
 
 Ankush
-
-```
-
----
-
