@@ -45,7 +45,7 @@ It extracts structured claim information from ACORD-style PDF or TXT documents a
 - Dependencies:
   ```bash
   pip3 install -r requirements.txt
-````
+```
 
 ## Usage
 
