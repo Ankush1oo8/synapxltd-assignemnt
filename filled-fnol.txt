@@ -1,0 +1,10 @@
+Policy Number: AUTO123456
+Policyholder Name: Rohan Mehta
+Incident Date: 12/01/2025
+Incident Time: 14:30
+Incident Location: Pune, Maharashtra
+Incident Description: Minor rear-end collision at traffic signal, no injuries reported.
+Claim Type: vehicle damage
+Estimated Damage: 18000
+Attachments: accident_photos.zip
+Initial Estimate: 17000
