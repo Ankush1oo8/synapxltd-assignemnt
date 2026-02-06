@@ -25,6 +25,16 @@ It extracts structured claim information from ACORD-style PDF or TXT documents a
   - Investigation Flag
 - Outputs clean **JSON** for downstream systems
 
+  ## Images
+  ### Not filled form
+  <img width="873" height="338" alt="image" src="https://github.com/user-attachments/assets/503578ac-639b-40a8-877e-4bb2b4d07a88" />
+
+  ### filled pdf
+  <img width="1293" height="263" alt="image" src="https://github.com/user-attachments/assets/3be29552-19e7-4396-9075-ed311bb1e340" />
+
+  ### text file
+  <img width="975" height="254" alt="image" src="https://github.com/user-attachments/assets/fef9ecda-c08d-4fea-accb-8dd70e6faa8c" />
+
 ## Project Structure
 
 ```
